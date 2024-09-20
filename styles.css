@@ -1,0 +1,12 @@
+.directions {
+    color: blue;
+}
+
+.ingredients {
+    color: red;
+}
+
+.directions,
+.ingredients {
+    font-size: 40px;
+}
